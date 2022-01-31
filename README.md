@@ -1,9 +1,9 @@
 ## 🌎 Olá, meu nome é Abraao Wendel!
 
 <div align="center">
-  <a href="https://github.com/AbraaoWeb">
+  <a href="https://github.com/abraaowendel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbraaoWeb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbraaoWeb&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraaowendel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
